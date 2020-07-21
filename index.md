@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lem's Personal Website
 
 You can use the [editor on GitHub](https://github.com/Lemuel87/lemweb.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
